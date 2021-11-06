@@ -11,8 +11,14 @@ For Those Great Developers Who needed this version of fullcalendar in Iranian Ve
 
 https://github.com/fullcalendar/fullcalendar
 
+## DEMO:
 
-2- Replace the fullcalendar.min.js with this repo's file
+1- To speed up your initialization please look at the online demo:
+
+https://mzangeneh.github.io/fullcalendar-shamsi/
+
+
+
 
 
 ## Donate:
